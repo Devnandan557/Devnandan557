@@ -1,6 +1,6 @@
-👋 - Hi, I’m Devnandan Yadav web developer/web designer, programmer, content creator and a data Science Enthusiast. 
-👀  - I'm Interested in full stack web development, currently working on front end technologies and loves to code on python and machine learning algorithms.
-📫 - You can reach me at my email devnandanyadav1@gmail.com or connect with me via Linkedln https://www.linkedin.com/in/devnandan-yadav-2211301b0/
+👋 - Hi, I’m Devnandan Yadav web developer/web designer, programmer, content creator and a Front End developer Enthusiast. 
+👀  - I'm Interested in full stack web development, currently working on front end technologies including ReactJs.
+📫 - You can reach out to me at my email devnandanyadav1@gmail.com or connect with me on Linkedln https://www.linkedin.com/in/devnandan-yadav-2211301b0/
 
 
 <!---
